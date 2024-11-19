@@ -5,7 +5,6 @@
 - 📚 I'm currently learning advanced AI algorithms, secure software development practices, and data analysis techniques.
 - ❤️‍🔥 I’m looking to collaborate on innovative projects involving AI/ML, NLP models, or software applications with a focus on impactful problem-solving.
 -	📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darren-lim-2542a0293/) | darren.lim.off@gmail.com
--	😄 Pronouns: He/Him
 -	⚡ Fun fact: I love dance! My favourite genre of dance is Breaking!
 
 🚀 I’m currently looking for internship opportunities, especially in:
