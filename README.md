@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Here's a little about me:
 
-- 👀 **Interests**: AI, Machine Learning, Natural Language Processing, Cybersecurity, and Software Engineering
+- 👀 **Interests**: AI, Machine Learning, Natural Language Processing, Cybersecurity, Data Analytics and Software Engineering
 - 🌱 **Current Studies**: Computer Science at the National University of Singapore
 - 📚 **Learning**: Advanced AI algorithms, secure software development practices, and data analysis techniques
 - ❤️‍🔥 **Looking to Collaborate**: On innovative projects involving AI/ML, NLP models, or software applications
