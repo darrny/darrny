@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @darrny
+# 👋 Hi, I’m Darren
 
 Welcome to my GitHub! Here's a little about me:
 
