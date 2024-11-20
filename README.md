@@ -1,15 +1,19 @@
-👋 Hi, I’m @darrny
+# 👋 Hi, I’m @darrny
 
--	👀 I’m interested in AI, ML, Natural Language Processing, Cybersecurity, and Software Engineering.
-- 🌱 I’m studying Computer Science at the National University of Singapore.
-- 📚 I'm currently learning advanced AI algorithms, secure software development practices, and data analysis techniques.
-- ❤️‍🔥 I’m looking to collaborate on innovative projects involving AI/ML, NLP models, or software applications.
--	📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darrny) | [Email](darren.lim.off@gmail.com)
--	⚡ Fun fact: I love dance! My favourite genre of dance is Breaking!
+Welcome to my GitHub! Here's a little about me:
 
-🚀 I’m currently looking for internship opportunities, especially in:
-- AI/Machine Learning/NLP
+- 👀 **Interests**: AI, Machine Learning, Natural Language Processing, Cybersecurity, and Software Engineering
+- 🌱 **Current Studies**: Computer Science at the National University of Singapore
+- 📚 **Learning**: Advanced AI algorithms, secure software development practices, and data analysis techniques
+- ❤️‍🔥 **Looking to Collaborate**: On innovative projects involving AI/ML, NLP models, or software applications
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/darrny) | [Email](mailto:darren.lim.off@gmail.com)
+- ⚡ **Fun Fact**: I love dance! My favourite genre of dance is Breaking.
+
+---
+
+## 🚀 Currently Seeking Internship Opportunities in:
+- AI / Machine Learning / NLP
 - Cybersecurity
 - Software Engineering
 
-Let’s connect and build something amazing together!
+Let's connect and build something amazing together! 
