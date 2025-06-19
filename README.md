@@ -11,6 +11,7 @@ Welcome to my GitHub! Here's a little about me:
 ## 🚀 Currently Seeking Internship Opportunities in:
 - Quant
 - Trading
+- Software Engineering
 - Market-making / LP
 
 Let's connect and build something amazing together! 
