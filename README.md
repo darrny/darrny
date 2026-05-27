@@ -1,3 +1,3 @@
-# 👋 Hi, I’m Darren
+# Hi, I’m Darren
 
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/darrny) | [Email](mailto:darren.lim.off@gmail.com)
+- **Reach Me**: [LinkedIn](https://www.linkedin.com/in/darrny) | [Email](mailto:darren.lim.off@gmail.com)
